@@ -1,0 +1,108 @@
+
+/* html{
+  height: 100%;
+}
+body {
+  background-color: aquamarine;
+}
+
+
+.welcome{
+  font-size: 35px;
+  padding:1px;
+  background-color: #ffffff;
+  width: 300px;
+  height: 300px;
+  position: fixed;
+  left: 290px;
+  top:230px;
+}
+.red{
+  
+  color:red;
+}
+.text{
+  position: relative;
+  left: 300px;
+  top: 220px;
+  width: 30%;
+  height: 30%;
+}
+h1{
+    
+    font-size: 50px;
+}
+h2{
+   font-size:50px;
+   position:relative;
+   top: -46px;
+}
+h3{
+  font-size: 50px;
+  position: relative;
+  top: -26px;
+}
+/* .form-container{
+  position: relative;
+    top: -130px;
+    right: -700px;
+    padding: 30px; 
+    width: 300px;
+    height: 300px;
+    border-radius: 10px; 
+  background-color: rgb(255, 255, 255);
+  } 
+
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  label {
+    font-size: small;
+    padding: 10px;
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input {
+    
+    width: 300px;
+    padding: 10px;
+
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin:auto;
+    display: block; /* Make the input a block element 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  button {
+    position: relative;
+    top: 15px;
+    background-color: #97bbf1;
+    color: white;
+    padding: 10px 130px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    display: block; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+  }
+  
+  button:hover {
+    background-color: #5945a0;
+  }
+  .login-container {
+    
+    max-width: 350px;
+    margin-top: 190px;
+    margin-left: 650px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+   
+  
+} 
+   */
